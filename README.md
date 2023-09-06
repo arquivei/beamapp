@@ -1,5 +1,7 @@
 # beamapp
 
+DEPRECATED: Please use https://github.com/arquivei/arqbeam-app
+
 An Apache Bream application wrapper using [go-app](https://github.com/arquivei/go-app).
 
 This further extends go-app project to create Apache Beam applications.
